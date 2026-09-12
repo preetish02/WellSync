@@ -1,0 +1,27 @@
+{
+  "name": "wellsync",
+  "version": "1.0.0",
+  "description": "AI-powered health and wellness platform with mental health, menstrual cycle tracking, and neuroacoustic therapy features",
+  "main": "backend/app.py",
+  "scripts": {
+    "start": "python backend/app.py",
+    "dev": "python backend/app.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "health",
+    "wellness",
+    "ai",
+    "menstrual-tracker",
+    "emotion-detection",
+    "neuroacoustic"
+  ],
+  "author": "WellSync Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
