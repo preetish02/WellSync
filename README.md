@@ -1,6 +1,6 @@
 # WellSync
 
-### AI-Powered Health & Wellness Platform
+### Your intelligent partner for better health.
 
 WellSync is an AI-powered health and wellness web platform designed to provide users with a range of tools for monitoring and improving their overall well-being.
 
